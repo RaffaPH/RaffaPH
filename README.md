@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend dev, telco integration, cloud eviroments and automation solutions
 - 🌱 I’m currently learning python and hope to start some Js course
 - 💞️ I’m looking to collaborate on freelance project
-- 📫 How to reach me, easy pal, just sendme a PM
+- 📫 How to reach me, easy pal, just send me a PM on Instagram @raffita_herrera
 
 <!---
 RaffaPH/RaffaPH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
